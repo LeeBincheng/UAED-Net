@@ -6,12 +6,12 @@ Underwater Object Detection (UOD) is pivotal for applications in aquaculture, ma
 <img width="3955" height="2006" alt="framework" src="https://github.com/user-attachments/assets/76e15271-7ae8-4705-ace4-47b1cb5588de" />
 
 # Dependencies
-Python ==	3.12.3
+Python ==	3.10
 
 PyTorch	==	2.3.0
 
 mmdetection	== 2.22.0	
-mmcv	==	2.1.0
+mmcv	==	1.3.17
 numpy	==	1.26.4
 
 # Installation
