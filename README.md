@@ -11,7 +11,9 @@ Python ==	3.10
 PyTorch	==	2.3.0
 
 mmdetection	== 2.22.0	
+
 mmcv	==	1.3.17
+
 numpy	==	1.26.4
 
 # Installation
